@@ -4,6 +4,7 @@ Discription? Excellent question.
 <img src="media/much-excited-very-wow.gif">
 
 #### Sup brahs
+sup
 I noticed you guys have been pretty lit on github lately and thought maybe we attempt something once again.
 
 Maybe we can brainstorm and agree on an idea, then we just start a to-do list of sorts using *issues* and the project function for this repo.
